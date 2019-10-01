@@ -1457,11 +1457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Client/BlazorWasmHosted.Client.csproj",
+      "projectUniqueName": "/Users/johnnylb/Documents/GitHub/BlazorWasmHosted/Client/BlazorWasmHosted.Client.csproj",
       "projectName": "BlazorWasmHosted.Client",
-      "projectPath": "/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Client/BlazorWasmHosted.Client.csproj",
+      "projectPath": "/Users/johnnylb/Documents/GitHub/BlazorWasmHosted/Client/BlazorWasmHosted.Client.csproj",
       "packagesPath": "/Users/johnnylb/.nuget/packages/",
-      "outputPath": "/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Client/obj/",
+      "outputPath": "/Users/johnnylb/Documents/GitHub/BlazorWasmHosted/Client/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -1478,8 +1478,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj": {
-              "projectPath": "/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj"
+            "/Users/johnnylb/Documents/GitHub/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj": {
+              "projectPath": "/Users/johnnylb/Documents/GitHub/BlazorWasmHosted/Shared/BlazorWasmHosted.Shared.csproj"
             }
           }
         }
