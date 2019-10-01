@@ -1,0 +1,8 @@
+/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Shared/bin/Debug/netstandard2.0/BlazorWasmHosted.Shared.deps.json
+/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Shared/bin/Debug/netstandard2.0/BlazorWasmHosted.Shared.dll
+/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Shared/bin/Debug/netstandard2.0/BlazorWasmHosted.Shared.pdb
+/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Shared/obj/Debug/netstandard2.0/BlazorWasmHosted.Shared.csprojAssemblyReference.cache
+/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Shared/obj/Debug/netstandard2.0/BlazorWasmHosted.Shared.AssemblyInfoInputs.cache
+/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Shared/obj/Debug/netstandard2.0/BlazorWasmHosted.Shared.AssemblyInfo.cs
+/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Shared/obj/Debug/netstandard2.0/BlazorWasmHosted.Shared.dll
+/Users/johnnylb/Documents/Blazor/BlazorWasmHosted/Shared/obj/Debug/netstandard2.0/BlazorWasmHosted.Shared.pdb
